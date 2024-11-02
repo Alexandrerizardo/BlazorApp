@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\blazorApp\\Vendedores\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Vendendores.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Vendendores.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\blazorApp\\Vendedores\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Projects\\blazorApp\\Vendedores\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\blazorApp\\Vendedores\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\blazorApp\\Vendedores\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Vendendores.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Vendendores.props",
+      "PackagePath": "build\\Vendendores.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Vendendores.props",
+      "PackagePath": "buildMultiTargeting\\Vendendores.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Vendendores.props",
+      "PackagePath": "buildTransitive\\Vendendores.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
