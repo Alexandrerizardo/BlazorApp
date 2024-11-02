@@ -22,7 +22,7 @@ namespace Vendedores.Models
         [EmailAddress(ErrorMessage = "O email não é válido.")]
         public string Email { get; set; }
 
-        public Regiao Regiao { get; set; }
+        public public enum Regiao Regiao { get; set; }
         //FK de regiao dentro da entidade vendedor
         public int RegiaoId { get; set; }
     }
